@@ -1,12 +1,6 @@
-{\rtf1\ansi\ansicpg1251\cocoartf2757
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+This curse u learning algorithm, function and OOP from C++ language
 
-\f0\fs24 \cf0 This curse u learning algorithm, function and OOP from C++ language\
-\
-\
-First home task: Implement the calculator using functions, math.h cmath libraries are allowed for use. \
+
+First home task: Implement the calculator using functions, math.h cmath libraries are allowed for use.
+
 What the calculator should do: solving the recursion expression, finding the sin/cos of the angle by the legs, the discriminant, finding the determinant of the matrix}
