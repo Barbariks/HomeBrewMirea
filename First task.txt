@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
 This curse u learning algorithm, function and OOP from C++ language
 
 
 First home task: Implement the calculator using functions, math.h cmath libraries are allowed for use.
 
 What the calculator should do: solving the recursion expression, finding the sin/cos of the angle by the legs, the discriminant, finding the determinant of the matrix}
-=======
-﻿This curse u learning algorithm, function and OOP from C++ languageFirst home task: Implement the calculator using functions, math.h cmath libraries are allowed for use. What the calculator should do: solving the recursion expression, finding the sin/cos of the angle by the legs, the discriminant, finding the determinant of the matrix
->>>>>>> Stashed changes
